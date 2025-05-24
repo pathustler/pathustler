@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Pat Schwarz
+# 👋 Hi, I'm Pathustler
 
 🎓 **Bachelor of Artificial Intelligence (UTS)**  
 🧠 AI Developer • 🛠 Full-Stack Engineer • 🎯 Project Builder
