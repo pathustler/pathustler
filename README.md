@@ -40,7 +40,7 @@ An AI-powered productivity and self-growth social media platform designed to hel
 
 ### 💼 [OSAAT](https://github.com/SWSC-GIT/osaat)
 
-![](https://github.com/pathustler/pathustler/blob/main/f22a.png?raw=true)
+![](https://github.com/pathustler/pathustler/blob/main/White%20Floral%20Aesthetic%20Thank%20You%20Card.png?raw=true)
 
 “One Shade At A Time” (OSAAT) is a management system website I built for SWSunControl, a company based in Arizona that builds sunshades. This system is designed to make things easier for the team by keeping everything in one place—customers, calendar events, orders, workstation processes, etc. [Link to the site](https://ossat.azurewebsites.net)
 
