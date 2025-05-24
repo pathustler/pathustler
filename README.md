@@ -32,9 +32,13 @@ An AI-assisted EEG-conditioned autonomous driving system that can analyse the dr
 
 ### 💼 [OSAAT](https://github.com/SWSC-GIT/osaat)
 “One Shade At A Time” (OSAAT) is a management system website I built for SWSunControl, a company based in Arizona that builds sunshades. This system is designed to make things easier for the team by keeping everything in one place—customers, calendar events, orders, workstation processes, etc. [Link to the site](https://ossat.azurewebsites.net)
+
 **Link to the Documentation Blogs**
+
 [Meetings and Project Kickoff](https://stagmoney.com/meetings-and-project-kickoff-osaat-part-1/)
+
 [Deployment, Authentication and Dashboard](https://stagmoney.com/deployment-authentication-and-dashboard/)
+
 [Customer Pages](https://stagmoney.com/customer-pages/)
 
 ---
