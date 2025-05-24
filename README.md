@@ -9,7 +9,7 @@
 
 I'm a passionate developer currently completing my Bachelor's in Artificial Intelligence at the University of Technology Sydney (UTS), graduating in 2026. I specialize in building intelligent applications that combine machine learning with practical, user-friendly interfaces — especially in **Django**, **JavaScript**, and **Python**.
 
-Over the past few years, I’ve worked on a range of exciting projects from [EEG-based driving systems](https://github.com/M00d3h/Capstone-LLaVA-Task2) to AI-powered web apps like [LifeXP]([https://github.com/your-username/LifeXP](https://github.com/LifeXP-App/lifexp-web)), where I combine backend logic, AI models, and beautiful frontend designs to bring ideas to life.
+Over the past few years, I’ve worked on a range of exciting projects from [EEG-based driving systems](https://github.com/M00d3h/Capstone-LLaVA-Task2) to AI-powered web apps like [LifeXP](https://github.com/LifeXP-App/lifexp-web), where I combine backend logic, AI models, and beautiful frontend designs to bring ideas to life.
 
 ---
 
