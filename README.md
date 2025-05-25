@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Pathustler
+# 👋 Hi, I'm Pathustler [![Static Badge](https://img.shields.io/badge/Website-Pathustler-violet?style=for-the-badge&label=Website&labelColor=white&color=white&link=https%3A%2F%2Fpathustler.vercel.app)](https://pathustler.vercel.app)
 
 🎓 **Bachelor of Artificial Intelligence (UTS)**  
 🧠 AI Developer • 🛠 Full-Stack Engineer • 🎯 Project Builder
+
+
+
 
 ---
 
