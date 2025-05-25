@@ -67,25 +67,13 @@ Smart Interview Assistance, using NLP and speech processing/recognition. It anal
 - Cloud & Tools:  Render, Wasabi, Cloudinary, Git, Docker
 
 
-## 🌱 Currently Exploring
-
-🔮 LifeXP - My startup
-
-🧠 Brain-Computer Interfaces (BCI)
-
-🔍 LLM Fine-tuning for Smart Interview Assistant
-
-☁️ AWS for scalable deployment
-
-🤝 Let’s Connect
-
 🌐 My Website https://pathustler.vercel.app
 
 ---
 
 # 📄 List of all projects
 
-|   Index  | Date | Project Name | Type | Description | Worked with | Github/
+|   Index  | Date | Project Name | Type | Description | Worked with | Github |
 | -------- | ------- | ------- | ------- | ------- | ------- |------- |
 | 1  | August 2023    |  Introduction to Data Analytics - Kaggle Competition    | Data Analytics  | Participated in a Kaggle competition. Researched problem and dataset given in competition. Conducted thorough research on domain (Medical) and used knowledge in determining approach in data preprocessing step. Data preprocessing was done using KNIME to remove outliers and transform columns to achieve maximum accuracy. Used Python's Tensorflow library (to use ANNs) and Sklearn to make predictions and evaluate Build a machine learning model could predict with 80% accuracy and as a result, was ranked 31 out of 343 students.    | Solo |
 | 2  | December 2023    |  [Riverdale Library, Remote](https://riverdalelibrary.org/)   | Web Development    | A small-scale web development project. Migrated existing website from Joomla to WordPress. Rebuilt website on WordPress according to the client's needs.    | Solo |
