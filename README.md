@@ -57,6 +57,7 @@ Smart Interview Assistance, using NLP and speech processing/recognition. It anal
 
 ---
 
+
 ## 🧰 Tech Stack
 
 - Languages:      Python, JavaScript, SQL, HTML/CSS, Bash
@@ -80,6 +81,16 @@ Smart Interview Assistance, using NLP and speech processing/recognition. It anal
 
 🌐 My Website https://pathustler.vercel.app
 
+---
+
+# 📄 List of all projects
+
+|   Index  | Date | Project Name | Type | Description | Worked with | Github/
+| -------- | ------- | ------- | ------- | ------- | ------- |------- |
+| 1  | December 2023    |  [Riverdale Library, Remote](https://riverdalelibrary.org/)   | Web Development    | A small-scale web development project. Migrated existing website from Joomla to WordPress. Rebuilt website on WordPress according to the client's needs.    | Solo |
+| 2  | December 2023    |  [Edgewater Library, Remote](https://edgewaterlibrary.org/)   | Web Development    | Rebuilt existing website from scratch on WordPress. Integrated Calendar Features on the website.    | Solo |
+| 3  | January 2024    |  [Stagmoney](https://stagmoney.com/)   | Blog    |  The website is used for writing and posting blogs about concepts studied in AI, stocks, finance, and development.  | [Jason](https://github.com/arion52) |
+| 4  | April 2024    |  [OSAAT (One Shade At A Time), SW Sun Control, Remote](https://github.com/SWSC-GIT/osaat)   | Web Development    |  Attended meetings discussing Product Performance and security. Conducted thorough research on manufacturing processes and workflow in Sunshade manufacturing. <br /> <br />  Discussed design solutions for product development of a company management system website allows employees to schedule events, book and manage orders for sunshades, and view and analyze reports about production, visits, orders, and shipping. <br /> <br />   Website was created using Django and deployed on Azure. Python and Javascript were primarily used for buildingfunctions. Microsoft SQL Database Deployed on Azure and connected to website for backend development. Tailwind CSS was used to provide a slick look to UI. Built main section of website that allows events, ordering, and report viewing. <br /> <br />   Built workstation section of website, allows manufacturing team to refer to and keep track of manufacturing jobs such as Box cut, Tube Cut, Pre-assembly, Hardware, Powder Coat, Fabric, Assembly, and Shipping.  | Mark, James Sullivant | [Link](https://github.com/SWSC-GIT/osaat)|
 
 
 
